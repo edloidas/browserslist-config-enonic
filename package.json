@@ -1,0 +1,35 @@
+{
+  "name": "browserslist-config-enonic",
+  "version": "0.0.1",
+  "description": "Shareable Browserslist config for Enonic applications",
+  "main": "index.js",
+  "keywords": [
+    "browserslist",
+    "browserslist-config",
+    "config",
+    "enonic"
+  ],
+  "homepage": "https://github.com/edloidas/browserslist-config-enonic#readme",
+  "bugs": {
+    "url": "https://github.com/edloidas/browserslist-config-enonic/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "edloidas <edloidas@gmail.com> (https://edloidas.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edloidas/browserslist-config-enonic.git"
+  },
+  "scripts": {
+    "test": "node test",
+    "precommit": "npm test",
+    "prepublishOnly": "npm test"
+  },
+  "devDependencies": {
+    "browserslist": "^2.5.1",
+    "husky": "^0.14.3"
+  },
+  "engines": {
+    "node": ">= 4.8.4",
+    "yarn": ">= 1.2.1"
+  }
+}
