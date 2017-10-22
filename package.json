@@ -1,6 +1,6 @@
 {
   "name": "browserslist-config-enonic",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Shareable Browserslist config for Enonic applications",
   "main": "index.js",
   "keywords": [
@@ -15,6 +15,9 @@
   },
   "license": "Apache-2.0",
   "author": "edloidas <edloidas@gmail.com> (https://edloidas.com)",
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/edloidas/browserslist-config-enonic.git"
