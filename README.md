@@ -1,3 +1,5 @@
+<h2 align="center"> :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: This repository is moved to <a href="https://github.com/enonic/enonic-npm/tree/master/packages/browserslist-config-enonic">enonic-npm</a> :heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark: </h2>
+
 <h1 align="center">browserslist-config-enonic</h1>
 
 [![Travis Build Status][travis-image]][travis-url]
